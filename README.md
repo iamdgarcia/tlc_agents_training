@@ -1,10 +1,20 @@
-# 📚 Agentic AI for Beginners: From Chat to Action
+# ![The Learning Curve](https://substackcdn.com/image/fetch/$s_!eWHj!,e_trim:10:white/e_trim:10:transparent/h_72,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62395659-6555-44b9-9eb3-e4aaa91e7ccd_1584x396.png)
 
-Welcome to **Agentic AI for Beginners**, a hands-on course designed to take you from understanding the basics of Large Language Models (LLMs) to building autonomous, multi-agent systems that can reason, act, and collaborate.
+# Agentic AI for Beginners: From Chat to Action
+
+Welcome to **The Learning Curve** series on Agentic AI.
+
+> **"Learn AI like an engineer, not like a YouTube guru."**
+
+If you are tired of "get rich with AI" promises and want to understand how to actually *build* autonomous systems, you are in the right place. This course is designed to explain complex concepts in plain English (or Spanish, if you prefer) and give you tools that actually work. No fluff.
+
+**[Subscribe to The Learning Curve](https://iamdgarcia.substack.com)** for more engineering-first AI content.
+
+---
 
 ## 🚀 Course Overview
 
-This course is structured into **5 Modules**, guiding you through the theoretical foundations and practical implementation of AI agents.
+This isn't just theory. It's a hands-on journey from understanding LLMs to deploying production-ready agents.
 
 ### **Module 0: Setup and Foundations (The Toolkit) 🛠️**
 *   **0.1** Welcome & Course Roadmap
@@ -27,7 +37,7 @@ This course is structured into **5 Modules**, guiding you through the theoretica
 *   **3.2** Reflection and Self-Correction
 *   **3.3** Multi-Agent Systems (MAS) Introduction
 
-### Module 4: Multi-Agent Collaboration and Final Project 🚀
+### **Module 4: Multi-Agent Collaboration and Final Project 🚀**
 *   **4.1** Coordination Patterns (Orchestrator-Workers)
 *   **4.2** **Final Project: The Autonomous Workflow Agent**
 *   **4.3** Ethics, Safety, and Guardrails
@@ -36,6 +46,8 @@ This course is structured into **5 Modules**, guiding you through the theoretica
 *   **5.1** Evaluation & Metrics (LLM-as-a-Judge)
 *   **5.2** Tracing & Debugging
 *   **5.3** Deployment with FastAPI
+
+---
 
 ## 🛠️ Getting Started
 
@@ -46,11 +58,12 @@ This course is structured into **5 Modules**, guiding you through the theoretica
     ```
 
 2.  **Set up your environment:**
-    Follow the instructions in [Module 0](./module_00_setup_and_foundations/README.md) to install Python, set up a virtual environment, and configure your API keys.
+    Follow the instructions in [Module 0](./module_00_setup_and_foundations/README.md).
 
 ## 📚 Resources
 
-*   Check the [Appendix](./appendix/resources.md) for a glossary of terms and further reading.
+*   Check the [Appendix](./appendix/resources.md) for a glossary.
+*   Join the conversation at [The Learning Curve](https://iamdgarcia.substack.com).
 
 ---
-*Happy Coding!*
+*Made with ☕ and curiosity by Daniel.*
