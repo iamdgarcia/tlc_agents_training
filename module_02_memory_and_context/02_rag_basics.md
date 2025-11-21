@@ -14,6 +14,8 @@
     *   Find the top $K$ most similar chunks in the DB.
 6.  **Generation**: You feed those chunks + the question to the LLM.
 
+![Diagram: The RAG Pipeline - Documents -> Splitter -> Embeddings -> Vector DB -> Retriever -> LLM](rag_pipeline.jpg)
+
 ## Why Embeddings?
 Embeddings capture *meaning*, not just keywords.
 *   "The canine barked" and "The dog made a noise" will have very similar vectors, even though they share few words.

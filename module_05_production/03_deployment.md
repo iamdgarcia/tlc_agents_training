@@ -13,6 +13,8 @@ Your agent is useless if it only lives in your terminal. We need to wrap it in a
 3.  **Agent** processes it (this can take 5-10 seconds).
 4.  **Server** returns JSON response.
 
+![Diagram: Deployment Architecture - Client App -> Internet -> FastAPI Server -> Agent Logic -> LLM API](deployment.jpg)
+
 ## Hands-On: Building the API
 In `api_server.py`, we will wrap our `simple_agent` from Module 1 in a FastAPI server.
 

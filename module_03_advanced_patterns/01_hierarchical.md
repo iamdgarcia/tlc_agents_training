@@ -8,6 +8,8 @@ To solve this, we separate the **Planning** from the **Execution**.
 1.  **The Planner**: An LLM call that breaks the user's request into a list of sub-tasks.
 2.  **The Executor**: An agent loop that takes one sub-task at a time and completes it.
 
+![Diagram: Planner-Executor Pattern - User Request -> Planner -> List of Steps -> Executor (Step 1) -> Executor (Step 2)...](planner.jpg)
+
 ## Why is this better?
 *   **Focus**: The executor only has to worry about one small thing at a time.
 *   **Reliability**: If one step fails, you can retry just that step, not the whole process.

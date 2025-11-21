@@ -9,6 +9,8 @@ Instead of just answering, a ReAct agent enters a loop:
 3.  **Observation**: The agent sees the result of the action.
 4.  **Repeat**: The agent thinks again, using the new information.
 
+![Diagram: The ReAct Loop - A circular flow: Thought -> Action -> Observation -> Thought](react_loop.jpg)
+
 ## Why is this powerful?
 It allows the agent to break down problems and gather information it doesn't have in its training data.
 

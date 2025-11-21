@@ -8,6 +8,8 @@ When you have multiple agents, how do they talk to each other?
 *   **Pros**: Easy to manage, clear hierarchy.
 *   **Cons**: The boss can become a bottleneck.
 
+![Diagram: Orchestrator-Worker Pattern - Orchestrator in center, arrows pointing to/from Worker 1, Worker 2, Worker 3](orchestrator.jpg)
+
 ## 2. Peer-to-Peer (The Roundtable)
 *   Agents talk directly to each other.
 *   Example: A "Developer" agent sends code to a "Tester" agent. The "Tester" sends bugs back to the "Developer".

@@ -8,6 +8,8 @@ An AI Agent is not just a chatbot. It's a system that follows a loop:
 3.  **Action**: It executes a command (calls a function, searches the web).
 4.  **Memory**: It remembers the result of that action.
 
+![Diagram: The Agent Loop - A cycle showing Perception -> Reasoning -> Action -> Memory -> Perception](agent_loop.jpg)
+
 This cycle repeats until the task is done.
 
 ## The "Reflective" Agent
