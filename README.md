@@ -49,6 +49,32 @@ This isn't just theory. It's a hands-on journey from understanding LLMs to deplo
 
 ---
 
+## 🤖 Deployable Blueprints
+
+Each module has a companion blueprint repository you can deploy to Netlify with one click:
+
+* **Module 1 — The Anatomy of an Agent**
+  * [Simple Agent Blueprint](https://github.com/iamdgarcia/simple-agent-blueprint) — Modules 1.1–1.2
+  * [ReAct Agent Blueprint](https://github.com/iamdgarcia/react-agent-blueprint) — Module 1.3
+
+* **Module 2 — Memory and Context Management**
+  * [Memory Agent Blueprint](https://github.com/iamdgarcia/memory-agent-blueprint) — Module 2.1
+  * [RAG Agent Blueprint](https://github.com/iamdgarcia/rag-agent-blueprint) — Modules 2.2–2.3
+
+* **Module 3 — Advanced Agent Design Patterns**
+  * [Planning Agent Blueprint](https://github.com/iamdgarcia/planning-agent-blueprint) — Module 3.1
+  * [Reflective Agent Blueprint](https://github.com/iamdgarcia/reflective-agent-blueprint) — Module 3.2
+  * [Router Agent Blueprint](https://github.com/iamdgarcia/router-agent-blueprint) — Module 3.3
+
+* **Module 4 — Multi-Agent Collaboration**
+  * [Research Team Blueprint](https://github.com/iamdgarcia/research-team-blueprint) — Modules 4.1–4.2
+  * [Guardrails Agent Blueprint](https://github.com/iamdgarcia/guardrails-agent-blueprint) — Module 4.3
+
+* **Module 5 — Production Engineering**
+  * [Production Agent Blueprint](https://github.com/iamdgarcia/production-agent-blueprint) — Module 5
+
+---
+
 ## 🛠️ Getting Started
 
 1.  **Clone the repository:**
